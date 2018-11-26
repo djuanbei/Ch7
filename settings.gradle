@@ -1,1 +1,1 @@
-include ':app', ':meshtest'
+include ':app', ':meshtest', ':fatpo', ':tweenanim', ':sharedpreferencestest', ':filetest'
